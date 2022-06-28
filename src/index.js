@@ -4,3 +4,4 @@ module.exports = function reverse (n) {
    num = Number(String(array).replace(/[,-]/g, ''));
    return num;
 }
+// just joke i know math decision
